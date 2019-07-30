@@ -1,0 +1,43 @@
+.card-body{
+position: absolute;
+width: 380px;
+height: 570px;
+background-color: #FFFFFF;
+padding: 20px;
+
+}
+.image{
+    width: 380px;
+    height: 380px;
+}
+h1{
+position: absolute;
+left: 10.53%;
+top: 72.98%;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+text-transform: uppercase;
+text-align: left;
+color: #B2B2B2;
+}
+h2{
+position: absolute;
+left: 10.53%;
+right: 10.53%;
+top: 76.49%;
+bottom: 15.44%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-transform: capitalize;
+text-align: left;
+
+color: #333333;
+}

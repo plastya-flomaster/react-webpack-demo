@@ -1,0 +1,11 @@
+card-list{
+        border: 2px dashed #444;
+        height: 125px;
+        
+        text-align: justify;
+        -ms-text-justify: distribute-all-lines;
+        text-justify: distribute-all-lines;
+        
+        /* just for demo */
+        min-width: 612px;
+    }
