@@ -3,7 +3,6 @@ position: absolute;
 width: 380px;
 height: 570px;
 background-color: #FFFFFF;
-padding: 20px;
 
 }
 .image{
@@ -14,9 +13,7 @@ h1{
 position: absolute;
 left: 10.53%;
 top: 72.98%;
-
-
-font-family: Roboto;
+font-family: 'Roboto';
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
@@ -31,7 +28,7 @@ right: 10.53%;
 top: 76.49%;
 bottom: 15.44%;
 
-font-family: Roboto;
+font-family: 'Roboto';
 font-style: normal;
 font-weight: normal;
 font-size: 20px;
